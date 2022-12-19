@@ -5,6 +5,8 @@
 ## 👋🏻 프로젝트 소개 
 PHP와 HTMl + CSS로 사용했고, DB는 Mysql 작성해 만든 간단한 쇼핑몰 사이트입니다. 
 
+템플릿과 다양한 애니메이션 오픈 소스를 공부하고 참조해서 제작했습니다.
+
 ### 💻 개발 환경 
 - `PHP 8.0`
 - `HTML&CSS`
@@ -25,5 +27,5 @@ PHP와 HTMl + CSS로 사용했고, DB는 Mysql 작성해 만든 간단한 쇼핑
 ### 메인 홈페이지
 
 <img src="https://user-images.githubusercontent.com/91319157/208422512-67f748aa-7a7a-4071-ad80-16edfb27c486.gif" width="65%">
-- 움직이는 배너효과 CSS
-- 
+
+1. 움직이는 배너
