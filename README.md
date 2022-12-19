@@ -10,10 +10,13 @@ PHP와 HTMl + CSS로 사용했고, DB는 Mysql 작성해 만든 간단한 쇼핑
 - `HTML&CSS`
 - **IDE**: visual studio code 
 - **DATABASE** : MYSQL 
--Mac OS Monterey M1
+- Mac OS Monterey M1
 
 ## 주요 기능 
 ####
+메인 홈페이지 
+
+
 
 
 
