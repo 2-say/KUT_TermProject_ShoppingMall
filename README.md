@@ -6,8 +6,8 @@
 PHP와 HTMl + CSS로 사용했고, DB는 Mysql 작성해 만든 간단한 쇼핑몰 사이트입니다. 
 
 ### 💻 개발 환경 
--'PHP 8.0'
--'HTML&CSS'
+-₩PHP 8.0₩
+-₩HTML&CSS₩
 - **IDE**: visual studio code 
 - **DATABASE** : MYSQL 
 -Mac OS Monterey M1
