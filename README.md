@@ -38,7 +38,7 @@ html 템플릿과 다양한 애니메이션 오픈 소스를 공부하고 참조
 
 ## 상품 View 페이지
 
-<img src="https://user-images.githubusercontent.com/91319157/208427049-5ca20f28-f402-4760-a9fe-c88d34231a63.png" hight="50%" width="65%">
+<img src="https://user-images.githubusercontent.com/91319157/208427049-5ca20f28-f402-4760-a9fe-c88d34231a63.png" hight="50%">
 
 #### 기능
 ## 상품 View 페이지
