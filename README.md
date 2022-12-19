@@ -116,5 +116,7 @@ html & css 에서 제가 반영한 수정사항이 바로바로 눈에 확인 �
 
 <br>
 <br>
-# 감사합니다 
+
+## 감사합니다 
+
 <img src="https://user-images.githubusercontent.com/91319157/208434073-c834c893-2aed-4ded-a079-dff65540063f.gif" width="30%"> 
