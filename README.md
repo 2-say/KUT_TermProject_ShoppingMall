@@ -23,7 +23,7 @@ html 템플릿과 다양한 애니메이션 오픈 소스를 공부하고 참조
 ####
 
 
-### 메인 홈페이지
+### 메인 홈페이지 gif 
 
 <img src="https://user-images.githubusercontent.com/91319157/208422512-67f748aa-7a7a-4071-ad80-16edfb27c486.gif" width="65%">
 
