@@ -23,7 +23,7 @@ html 템플릿과 다양한 애니메이션 오픈 소스를 공부하고 참조
 ####
 
 
-## 메인 홈페이지
+### 메인 홈페이지
 
 <img src="https://user-images.githubusercontent.com/91319157/208422512-67f748aa-7a7a-4071-ad80-16edfb27c486.gif" width="65%">
 
@@ -61,7 +61,7 @@ html 템플릿과 다양한 애니메이션 오픈 소스를 공부하고 참조
 
 ## 개발자 페이지 
 
-<img src="https://user-images.githubusercontent.com/91319157/208431126-c997bb8d-b8ef-41c8-aa04-ecf7cd1c955b.png" width="80%">
+<img src="https://user-images.githubusercontent.com/91319157/208431126-c997bb8d-b8ef-41c8-aa04-ecf7cd1c955b.png" height="20%">
 
 if문을 통해서 저장된 맴버 admin으로 접속 시 숨겨진(hidden) 관리자 모드 제공
 
