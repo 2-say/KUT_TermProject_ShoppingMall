@@ -41,11 +41,9 @@ html 템플릿과 다양한 애니메이션 오픈 소스를 공부하고 참조
 <img src="https://user-images.githubusercontent.com/91319157/208429052-58ff0703-99c2-4c9a-9080-453f89797e81.png" width="50%">
 
 #### 기능
-## 상품 View 페이지
 - 카테고리 별 물품 조회 기능 
+### DB Table
+| Num | category |  subject | content | name | regist_day | hit | id | price | file |
 
-> | Header | value | Description |
-| --: | :-- | :--: |
-| 정렬 | --: | 우측정렬 |
-| 정렬 | :-- | 좌측정렬 |
-| 정렬 | :--: | 가운데정렬 |
+
+
