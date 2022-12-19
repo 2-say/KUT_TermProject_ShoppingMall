@@ -22,8 +22,7 @@ PHP와 HTMl + CSS로 사용했고, DB는 Mysql 작성해 만든 간단한 쇼핑
 ## 주요 기능 🏅
 ####
 
-###메인 홈페이지
-
+### 메인 홈페이지
 
 <img src="https://user-images.githubusercontent.com/91319157/208422512-67f748aa-7a7a-4071-ad80-16edfb27c486.gif" width="65%">
 - 움직이는 배너효과 CSS
